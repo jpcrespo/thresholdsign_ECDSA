@@ -12,3 +12,7 @@ The repository consists of an app folder that contains the core for using the El
 - Functions signature, verify, hash
 
 The ipynb notebooks show how the example works
+
+The file Documents have the:
+- Report
+- Presentation
